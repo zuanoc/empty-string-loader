@@ -1,2 +1,10 @@
-# empty-string-loader
-Empty-string loader for Webpack
+# empty-string loader for webpack
+
+## Usage
+
+```js
+      {
+        test: /\.css$/,
+        loader: 'empty-string'
+      }
+```

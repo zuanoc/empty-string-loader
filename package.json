@@ -1,0 +1,22 @@
+{
+  "name": "emptyString-loader",
+  "description": "empty-string loader for webpack",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "author": {
+    "name": "zuanoc",
+    "email": "zuanoc@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuanoc/empty-string-loader"
+  },
+  "keywords": [
+    "webpack",
+    "emptyString"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  }
+}
